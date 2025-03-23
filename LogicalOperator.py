@@ -4,7 +4,7 @@ name = input(
     "Who are you ?\n"
 )
 #Or is a logical operator
-if(name =="Psycho" or name == "Lawdasur"):
+if(name =="Psycho" or name == "Maddy"):
     psycho_status = input("Are you Psycho?\n")
     good_deeds = int(input("How many good deeds have you done\n"))
     #and is a logical operator
